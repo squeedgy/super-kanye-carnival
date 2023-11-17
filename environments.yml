@@ -1,0 +1,12 @@
+name: kanye-time
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scikit-learn
+  - requests
