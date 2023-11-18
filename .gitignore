@@ -1,0 +1,6 @@
+data/processed/kanye_lyrics_cleaned.csv
+data/processed/kanye_lyrics_with_features.csv
+data/raw/kanye_west_lyrics.json
+generated_lyrics.txt
+my_model.keras
+trained_model.h5
