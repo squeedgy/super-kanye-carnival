@@ -4,3 +4,4 @@ data/raw/kanye_west_lyrics.json
 generated_lyrics.txt
 my_model.keras
 trained_model.h5
+.DS_Store
